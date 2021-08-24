@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ctiapps.pro</title>
+    <description>Software integration and DevOps services</description>
+    <link>//ctiapps.pro/</link>
+    <atom:link href="//ctiapps.pro/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Our services</title>
+        <description>&lt;p&gt;We are small B2B IT company, we will help you with:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You just about to start your business:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your backend and infrastructure design;&lt;/li&gt;
+  &lt;li&gt;Initial POC and MVP software development;&lt;/li&gt;
+  &lt;li&gt;Microservices, clouds and DevOps setup;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;You want to refactor your product:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Software design;&lt;/li&gt;
+  &lt;li&gt;Monolith splitting to the services;&lt;/li&gt;
+  &lt;li&gt;Orchestration, load balancing etc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 26 Jan 2019 19:22:00 -0600</pubDate>
+        <link>//ctiapps.pro/our-services</link>
+        <guid isPermaLink="true">//ctiapps.pro/our-services</guid>
+      </item>
+    
+  </channel>
+</rss>

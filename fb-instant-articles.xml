@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>//ctiapps.pro</link>
+    <description>
+      Software integration and DevOps services
+    </description>
+    
+        
+            <item>
+                <title>Our services</title>
+                <link>//ctiapps.pro/our-services</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>We are small B2B IT company, we will help you with:</p>
+
+<p><em>You just about to start your business:</em></p>
+
+<ul>
+  <li>Your backend and infrastructure design;</li>
+  <li>Initial POC and MVP software development;</li>
+  <li>Microservices, clouds and DevOps setup;</li>
+</ul>
+
+<p><em>You want to refactor your product:</em></p>
+
+<ul>
+  <li>Software design;</li>
+  <li>Monolith splitting to the services;</li>
+  <li>Orchestration, load balancing etc.</li>
+</ul>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/our-services</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 26 Jan 2019 19:22:00 -0600</pubDate>
+                <author>ctiapps</author>
+            </item>
+        
+    
+  </channel>
+</rss>
